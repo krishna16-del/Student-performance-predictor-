@@ -72,7 +72,7 @@ Enter the study hours when prompted
 View your Predicted Marks & PASS/FAIL result
 
 # Developed By:-
-Name: Pushkar
+Name: Krishna singh 
 
-Registration no:- 25BCY10105
+Registration no:- 25BAI11390
 
